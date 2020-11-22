@@ -1,8 +1,6 @@
 #                                               Projekt-strony
 
 Witam na mojej stronce
-</h1>
-</header>
 
 <nav>
 <ul>
@@ -24,7 +22,12 @@ To tu będą umieszczane szybkie informacje
 </aside>
 
 <footer>
-Mikołaj Druciarek 21.11.2020r
+  
+Mikołaj Druciarek
+
+21.11.2020r
+  
+  
   
 Copyright 2020
 

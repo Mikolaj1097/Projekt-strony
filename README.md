@@ -24,6 +24,6 @@ To tu będą umieszczane szybkie informacje
 </aside>
 
 <footer>
-Coś dla autorów
+Mikołaj Druciarek 21.11.2020r
 Copyright 2020
 

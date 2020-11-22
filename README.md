@@ -25,5 +25,6 @@ To tu będą umieszczane szybkie informacje
 
 <footer>
 Mikołaj Druciarek 21.11.2020r
+  
 Copyright 2020
 

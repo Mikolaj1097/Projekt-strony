@@ -47,45 +47,7 @@ To tu będą umieszczane szybkie informacje
 <footer>
 Coś dla autorów
 Copyright 2020
-</footer>
 
-</body>
-
-
-
-
-</html>
-
-
-*{
-margin:0px; //ustawiamy własne marginesy by nie były defaultowe
-padding:0px; //odstępy
-}
-h1{
-
-font:bold 20px Tahoma;
-}
-h2{
-font:bold 14px Tahoma;
-}
-header, section, footer, aside, nav, article, hgroup
-{
-display:block; //wyświetla typ renderowanego elementu na stronie w bloku
-// odstęp z góry i z dołu
-}
-
-body{
-//dla całości dokumentu
-text-align:center;
-}
-
-<!doctype html>
-
-<html lang="pl">
-
-<head>
-<meta charset="utf-8"/>
-<title> M O J A S T R O N A</title>
 <link rel="stylesheet" href="main2.css">
 </head>
 

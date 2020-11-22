@@ -1,12 +1,5 @@
-# Projekt-strony
+#                                               Projekt-strony
 
-
-
-
-
-<body>
-<header>
-<h1>
 Witam na mojej stronce
 </h1>
 </header>

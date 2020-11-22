@@ -1,4 +1,4 @@
-#                                               Projekt-strony
+# Projekt strony
 
 Witam na mojej stronce
 
